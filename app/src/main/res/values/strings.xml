@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string-array name="cities_array">
+        <item> Brest </item>
+        <item> Minsk </item>
+        <item> Moscow </item>
+        <item> Los Angeles </item>
+        <item> St. Petersburg </item>
+    </string-array>
+</resources>
